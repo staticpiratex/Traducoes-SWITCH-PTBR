@@ -1,4 +1,4 @@
-# Traducoes-SWITCH-PTBR
+# Traduções-SWITCH-PTBR
 Pacote simples com traduções de jogos de Nintendo Switch para Português Brasileiro.
 Basta copiar a pasta atmosphere para a raíz do cartão microSD.
 Não fiz nenhuma tradução do pacote, apenas juntei as traduções que encontrei pela internet para ser mais fácil instalá-las no microSD depois de uma instalação limpa do atmosphere.
